@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thuong</h1>
 <h3 align="center">An amateur programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/tufI2qLPiLEAAAAC/cat-keyboard.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baronous&label=Profile%20views&color=0e75b6&style=flat" alt="baronous" /> </p>
-![z5544416666868_19513fb48a7f005770247c9de2b5ecba](https://github.com/ndthuong13/ndthuong13/assets/117913699/ee525c26-bd1c-4716-aab0-650ecc92172d)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baronous&label=Profile%20views&color=0e75b6&style=flat" alt="ndthuong13" /> </p>
+
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
