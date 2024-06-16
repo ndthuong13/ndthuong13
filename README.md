@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Thuong</h1>
-<h3 align="center">An amateur programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/tufI2qLPiLEAAAAC/cat-keyboard.gif">
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
+<h1 align="center">Hi 👋, I'm Thuong</h1>
+<h3 align="center">An amateur programmer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baronous&label=Profile%20views&color=0e75b6&style=flat" alt="ndthuong13" /> </p>
 
