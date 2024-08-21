@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My HIT**
 
-- 🌱 I’m currently learning **C++, Java, Android Kotlin**
+- 🌱 I’m currently learning **C++, Java, Android Kotlin, HTML, JavaScript**
 
 - 📫 How to reach me **thuongnguyendinh959@gmail.com**
 
